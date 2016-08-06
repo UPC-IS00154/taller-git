@@ -2,7 +2,7 @@
   "title" : "Taller de Git",
   "description" : "Materiales para el taller de Git",
   "language": "es",
-  "gitbook": "2.x.x",
+  "gitbook": "3.x.x",
   "structure": {
     "readme": "Inicio.md",
     "summary": "Contenido.md"
