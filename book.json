@@ -1,0 +1,13 @@
+{
+  "title" : "Taller de Git",
+  "description" : "Materiales para el taller de Git",
+  "language": "es",
+  "gitbook": "2.x.x",
+  "structure": {
+    "readme": "Introduccion.md",
+    "summary": "Contenido.md"
+  },
+  "plugins" : [
+    "hide-published-with"
+  ]
+}
